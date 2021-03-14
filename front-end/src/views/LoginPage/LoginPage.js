@@ -51,10 +51,18 @@ export default function LoginPage(props) {
         password: e.password
       })
       .then(res => {
+        if (!res) {
+          setAuthError(true);
+          return;
+        }
+        console.log("kwstas")
+        console.log(res);
         setAuthError(false);
         localStorage.setItem("isLoggedIn", true);
         localStorage.setItem("username", e.username);
+        console.log("kwstas")
         axiosInstance.defaults.headers['Authorization'] ="JWT " + res.data.access;
+        console.log("kwstas")
         localStorage.setItem('access_token', res.data.access);
         localStorage.setItem('refresh_token', res.data.refresh); 
         const timer = setTimeout(()=> {
@@ -62,6 +70,7 @@ export default function LoginPage(props) {
         }, 800);
        })
        .catch(error => {
+         console.log(error)
          setAuthError(true);
        })
     } catch (error) {

@@ -60,25 +60,13 @@ export default function SectionPills() {
                     tabContent: (
                       <span>
                         <p>
-                          Collaboratively administrate empowered markets via
-                          plug-and-play networks. Dynamically procrastinate B2C
-                          users after installed base benefits.
+                        With our unique key, or card, and the free Eevie App you can access Europe’s largest and most up-to-date network of electric vehicle charging stations.
                         </p>
                         <br />
                         <p>
-                          Dramatically visualize customer directed convergence
-                          without revolutionary ROI. Collaboratively
-                          administrate empowered markets via plug-and-play
-                          networks. Dynamically procrastinate B2C users after
-                          installed base benefits.
-                        </p>
-                        <br />
-                        <p>
-                          Dramatically visualize customer directed convergence
-                          without revolutionary ROI. Collaboratively
-                          administrate empowered markets via plug-and-play
-                          networks. Dynamically procrastinate B2C users after
-                          installed base benefits.
+                        Our map filters work for you. Find over 200,000 charging points in our network and navigate to the one that fits your needs. Now your commute, weekend getaway or road trip across Europe is simple and worry-free.
+
+
                         </p>
                       </span>
                     )
@@ -89,18 +77,15 @@ export default function SectionPills() {
                     tabContent: (
                       <span>
                         <p>
-                          Efficiently unleash cross-media information without
-                          cross-media value. Quickly maximize timely
-                          deliverables for real-time schemas.
+                        Charge your electric vehicle wherever you want - our extensive network of EV access points means there’s always a charging station near you.
+
+
                         </p>
                         <br />
                         <p>
-                          Dramatically maintain clicks-and-mortar solutions
-                          without functional solutions. Dramatically visualize
-                          customer directed convergence without revolutionary
-                          ROI. Collaboratively administrate empowered markets
-                          via plug-and-play networks. Dynamically procrastinate
-                          B2C users after installed base benefits.
+                        Our partners are pioneers in the mobility sector, which means that you profit from a dense network of charging stations and our tailor-made map.
+
+
                         </p>
                       </span>
                     )
@@ -111,25 +96,7 @@ export default function SectionPills() {
                     tabContent: (
                       <span>
                         <p>
-                          Collaboratively administrate empowered markets via
-                          plug-and-play networks. Dynamically procrastinate B2C
-                          users after installed base benefits.
-                        </p>
-                        <br />
-                        <p>
-                          Dramatically visualize customer directed convergence
-                          without revolutionary ROI. Collaboratively
-                          administrate empowered markets via plug-and-play
-                          networks. Dynamically procrastinate B2C users after
-                          installed base benefits.
-                        </p>
-                        <br />
-                        <p>
-                          Dramatically visualize customer directed convergence
-                          without revolutionary ROI. Collaboratively
-                          administrate empowered markets via plug-and-play
-                          networks. Dynamically procrastinate B2C users after
-                          installed base benefits.
+                        The route planner finds the fastest route based on your car's battery status and brings you to the charging points along your trip when you need them. Download our free Eevie app and use the route planner to plan your next trip.
                         </p>
                       </span>
                     )
